@@ -3,7 +3,7 @@
 [!\[Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 [!\[PyTorch](https://img.shields.io/badge/PyTorch-2.6.0-EE4C2C)](https://pytorch.org/)
 
-**Citation**: Yang et al., Physics-Plausible Probabilistic Photovoltaic Power Forecasting Using an Optimally Regulated Gaussian Mixture Deep Framework,2026 (in submission) (Contaction: ys302715@163.com）
+**Citation**: Physics-Plausible Probabilistic Photovoltaic Power Forecasting Using an Optimally Regulated Gaussian Mixture Deep Framework,2026 (in submission)
 
 This repository contains the official implementation of the **BiTCN-RGM-ACLPSO** framework, a novel deep learning approach designed for **multi-step time series forecasting**. The model specifically targets the complex characteristics of Photovoltaic (PV) power generation, offering high-precision probabilistic predictions.
 
